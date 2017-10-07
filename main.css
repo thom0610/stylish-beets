@@ -7,3 +7,16 @@ html {
 h1, h2 {
   color: #3f1622;
 }
+
+nav {
+  color: #8f2440;
+}
+
+nav a:hover {
+  color: #3f1622;
+  font-size: 1.125rem;
+}
+
+ol {
+  list-style-type: none;
+}
