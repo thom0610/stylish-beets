@@ -18,6 +18,10 @@ nav a:hover {
 
 }
 
+img {
+  width: 100%;
+}
+
 ol {
   list-style-type: none;
 }
