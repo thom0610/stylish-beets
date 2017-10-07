@@ -1,11 +1,11 @@
 html {
   background-color: #c9b5ab;
-  font-family: "PT Sans", sans-serif;
   line-height: 1.5;
 }
 
 h1, h2 {
   color: #3f1622;
+  font-family: 'PT Serif', serif;
 }
 
 nav ul {
@@ -15,6 +15,7 @@ nav ul {
 nav a:hover {
   color: #3f1622;
   font-size: 1.125rem;
+
 }
 
 ol {
@@ -24,3 +25,15 @@ ol {
 footer a:hover {
   color: #3f1622;
 }
+
+figcaption {
+  font-size: .8rem;
+  font-style: italic;
+  text-align: center;
+}
+dl dd {
+
+
+}
+
+font-family: "PT Sans", sans-serif;
