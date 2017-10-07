@@ -1,5 +1,5 @@
 html {
-  background-color: #c965ab;
+  background-color: #c9b5ab;
   font-family: "PT Sans", sans-serif;
   line-height: 1.5;
 }
@@ -8,7 +8,7 @@ h1, h2 {
   color: #3f1622;
 }
 
-nav {
+nav ul {
   color: #8f2440;
 }
 
@@ -19,4 +19,8 @@ nav a:hover {
 
 ol {
   list-style-type: none;
+}
+
+footer a:hover {
+  color: #3f1622;
 }
