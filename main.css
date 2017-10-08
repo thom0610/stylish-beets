@@ -1,11 +1,12 @@
 html {
   background-color: #c9b5ab;
   line-height: 1.5;
+  font-family: "PT Sans", sans-serif;
 }
 
 h1, h2 {
   color: #3f1622;
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
 }
 
 nav ul {
@@ -39,9 +40,5 @@ figcaption {
   font-style: italic;
   text-align: center;
 }
+
 dl dd {
-
-
-}
-
-font-family: "PT Sans", sans-serif;
