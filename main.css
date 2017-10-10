@@ -43,5 +43,10 @@ figcaption {
 }
 
 .stat {
-font-style: bold;
+font-weight: bold;
+font-size: 1rem;
+}
+
+.common {
+  list-style-type: lower-alpha;
 }
