@@ -10,8 +10,9 @@ h1, h2 {
   font-weight: bold;
 }
 
-nav a {
+a {
   color: #8f2440;
+  text-decoration: underline;
 }
 
 a:hover {
@@ -58,6 +59,10 @@ figcaption {
   list-style-type: circle;
 }
 
-h2 dt {
+dt {
   font-weight: bold;
+}
+
+h2 {
+  font-size: 1.25rem;
 }
