@@ -11,12 +11,13 @@ h1, h2 {
 }
 
 nav a {
-  color: #3f1622;
+  color: #8f2440;
 }
 
 a:hover {
   color: #3f1622;
   font-size: 1.125rem;
+  text-decoration: underline;
 }
 
 cite {
@@ -38,9 +39,10 @@ footer a:hover {
 }
 
 figcaption {
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-style: italic;
   text-align: center;
+  font-weight: normal;
 }
 
 .stat {
@@ -50,4 +52,12 @@ figcaption {
 
 .common {
   list-style-type: lower-greek;
+}
+
+.tags {
+  list-style-type: circle;
+}
+
+h2 dt {
+  font-weight: bold;
 }
